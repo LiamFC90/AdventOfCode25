@@ -2,6 +2,7 @@ clearvars
 clc
 
 %%Day One Part One
+
 %%This should load the password data
 
 Data1 = readlines("AdventOfCode25\SourceData\DayOneDataPartOne.txt");
